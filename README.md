@@ -1,6 +1,6 @@
 # Hey, I'm Addison 👋
  
-I'm a backend engineer who's really into puzzles and automation. I've spent most of my career at places like Amazon and Oracle, working on backend systems, cloud infrastructure, and making things scale
+I'm a backend engineer who's really into puzzles and automation. I've spent most of my career at Amazon and Oracle working on backend systems
  
 Right now I'm exploring new opportunities, tinkering with personal projects, and slowly convincing myself to contribute more to open source.
  
