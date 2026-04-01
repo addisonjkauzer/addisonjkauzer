@@ -14,10 +14,10 @@ Right now I'm exploring new opportunities, tinkering with personal projects, and
 
 
 - 🔭 I’m currently working on a dashboard for my automated linkedin puzzle solvers
-- 🌱 I’m currently learning how to get along with [claude](https://anthropic.skilljar.com/)
+- 🌱 I’m currently learning how to better get along with [Claude](https://anthropic.skilljar.com/)
 - 👯 I’m looking to collaborate on open source projects at some point
 - 🤔 I’m looking for help with finding a new team with a clear mission and high impact
-- 💬 Ask me about how my resources for interview prep
+- 💬 Ask me about my resources for interview prep
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Claude told me to make this readme
+- ⚡ Fun fact: You can see today's LinkedIn Puzzle solutions [here](https://d1mzui80xcp0h1.cloudfront.net/)
 
